@@ -1,0 +1,14 @@
+C:\Users\DELL\Desktop\Fogbugz.NotificationTool-master\Fogbugz.NotificationTool-master\bin\Debug\fbNotifyTool.exe.config
+C:\Users\DELL\Desktop\Fogbugz.NotificationTool-master\Fogbugz.NotificationTool-master\bin\Debug\fbNotifyTool.exe
+C:\Users\DELL\Desktop\Fogbugz.NotificationTool-master\Fogbugz.NotificationTool-master\bin\Debug\fbNotifyTool.pdb
+C:\Users\DELL\Desktop\Fogbugz.NotificationTool-master\Fogbugz.NotificationTool-master\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\DELL\Desktop\Fogbugz.NotificationTool-master\Fogbugz.NotificationTool-master\obj\Debug\ExecutePY.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\Fogbugz.NotificationTool-master\Fogbugz.NotificationTool-master\obj\Debug\ExecutePY.Properties.Resources.resources
+C:\Users\DELL\Desktop\Fogbugz.NotificationTool-master\Fogbugz.NotificationTool-master\obj\Debug\ExecutePY.SplashScreenView.resources
+C:\Users\DELL\Desktop\Fogbugz.NotificationTool-master\Fogbugz.NotificationTool-master\obj\Debug\ExecutePY.StartupView.resources
+C:\Users\DELL\Desktop\Fogbugz.NotificationTool-master\Fogbugz.NotificationTool-master\obj\Debug\ExecutePY.csproj.GenerateResource.Cache
+C:\Users\DELL\Desktop\Fogbugz.NotificationTool-master\Fogbugz.NotificationTool-master\obj\Debug\fbNotifyTool.exe
+C:\Users\DELL\Desktop\Fogbugz.NotificationTool-master\Fogbugz.NotificationTool-master\obj\Debug\fbNotifyTool.pdb
+C:\Users\DELL\Desktop\Fogbugz.NotificationTool-master\Fogbugz.NotificationTool-master\obj\Debug\ExecutePY.MainView.resources
+C:\Users\DELL\Desktop\Fogbugz.NotificationTool-master\Fogbugz.NotificationTool-master\obj\Debug\ExecutePY.MainSettingView.resources
+C:\Users\DELL\Desktop\Fogbugz.NotificationTool-master\Fogbugz.NotificationTool-master\obj\Debug\ExecutePY.NotificationView.resources
